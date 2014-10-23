@@ -8,3 +8,14 @@ div.form-item {
 div.webform-component-email {
 
 }
+.carousel-indicators li {
+	border-radius: 0
+}
+
+.well2 {
+	background-color: rgba(0, 0, 0, 0.3);
+}
+p {
+	font-size: 16pt;
+	line-height: 150%
+}
